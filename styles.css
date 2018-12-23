@@ -1,0 +1,23 @@
+h1{
+    color: red;
+}
+
+.brandcontainer {
+    display: block;
+    width: 20%;
+    float: left;
+}
+
+.linkscontainer {
+    display: block;
+    width: 80%;
+    float: right;
+}
+
+li {
+    display: inline;
+}
+
+ul {
+    float: right;
+}
