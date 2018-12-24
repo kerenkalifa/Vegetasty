@@ -1,23 +1,25 @@
-h1{
-    color: red;
+body {
+  background-image: url("https://images.pexels.com/photos/952479/pexels-photo-952479.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+  opacity: 1;
+  background-size: cover;
 }
 
 .brandcontainer {
-    display: block;
-    width: 20%;
-    float: left;
+  display: block;
+  width: 20%;
+  float: left;
 }
 
 .linkscontainer {
-    display: block;
-    width: 80%;
-    float: right;
+  display: block;
+  width: 80%;
+  float: right;
 }
 
 li {
-    display: inline;
+  display: inline;
 }
 
 ul {
-    float: right;
+  float: right;
 }
