@@ -1,7 +1,5 @@
 body {
-  background-color: #cdcdcd;
-  opacity: 1;
-  background-size: cover;
+  background-color: #b4a6a6;
 }
 
 .brandcontainer {
@@ -11,15 +9,35 @@ body {
 }
 
 .linkscontainer {
-  display: block;
+  display: flex;
   width: 80%;
   float: right;
+  align-items: flex-end;
 }
 
 li {
   display: inline;
 }
 
-ul {
+ul .navbar-nav {
   float: right;
+}
+
+.carousel {
+  margin: 0 auto;
+  width: 800px;
+  height: 400px;
+}
+.carousel-inner .item a img {
+  margin: auto;
+  width: 800px;
+  height: 400px;
+}
+
+.navbarTop {
+  margin-bottom: 100px;
+  font-size: 1.5rem;
+}
+.navbar-brand {
+  font-size: 1.5rem;
 }
