@@ -25,13 +25,13 @@ ul .navbar-nav {
 
 .carousel {
   margin: 0 auto;
-  width: 800px;
-  height: 400px;
+  width: 600px;
+  height: 360px;
 }
 .carousel-inner .item a img {
   margin: auto;
-  width: 800px;
-  height: 400px;
+  width: 600x;
+  height: 360px;
 }
 
 .navbarTop {
