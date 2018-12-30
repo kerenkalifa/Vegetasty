@@ -41,3 +41,16 @@ ul .navbar-nav {
 .navbar-brand {
   font-size: 1.5rem;
 }
+.content {
+  text-align: center;
+}
+p {
+  margin-top: 1em;
+}
+.moreSpace {
+  line-height: 2rem;
+}
+.navbar.scrolled {
+  background: #928888;
+  transition: background 500ms;
+}
